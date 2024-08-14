@@ -1,0 +1,33 @@
+/* App.css */
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(135deg, #1f1c2c, #928dab);
+}
+
+.card {
+  border: none;
+  border-radius: 1rem;
+  max-width: 400px;
+}
+
+h1, h2, h3 {
+  font-family: 'Poppins', sans-serif;
+}
+
+.clock-heading {
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.clock-slogan {
+  font-size: 1.25rem;
+  font-style: italic;
+  color: #d1d1e0;
+}
+
+.current-time {
+  font-size: 3rem;
+  font-family: 'Courier New', Courier, monospace;
+  letter-spacing: 0.1rem;
+}

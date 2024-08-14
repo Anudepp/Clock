@@ -3,7 +3,7 @@ let CurrentTime  = ()=>{
 
 
   return(
-    <p>Today  Date is :  {time.toLocaleDateString()} Local time now  {time.toLocaleTimeString()};
+    <p>Today  Date is :  {time.toLocaleDateString()}<br/> Local time now  {time.toLocaleTimeString()}
     </p>
 
   );
